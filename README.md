@@ -11,6 +11,6 @@ multi-tâches temps-réel **TTA** en langage **C** pour générer un signal carr
 
 [Tutoriel](https://readydev.ovh/home/tutoriels/embedsys/references-tta "Suivre le tutoriel sur ReadyDEV") |
 [Contact](https://www.linkedin.com/in/tia-gerard-kesse/ "Contactez-moi sur LinkedIn") |
-[Demo](https://www.linkedin.com/posts/tia-gerard-kesse_c-r%C3%A9f%C3%A9rence-dds-data-distribution-service-activity-7356852342345850881-7Tua?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOftRsB0Rh0MlSyRYweX14f_pNxyDgEm70 "Suivre la demo sur LinkedIn")
+[Demo](https://www.linkedin.com/posts/tia-gerard-kesse_c-r%C3%A9f%C3%A9rences-tta-time-triggered-architecture-activity-7358278488631484416-sPiF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOftRsB0Rh0MlSyRYweX14f_pNxyDgEm70 "Suivre la demo sur LinkedIn")
 
-[![demo.png](doc/demo.png "Suivre la démo sur LinkedIn")](https://www.linkedin.com/posts/tia-gerard-kesse_c-r%C3%A9f%C3%A9rence-dds-data-distribution-service-activity-7356852342345850881-7Tua?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOftRsB0Rh0MlSyRYweX14f_pNxyDgEm70)
+[![demo.png](doc/demo.png "Suivre la démo sur LinkedIn")](https://www.linkedin.com/posts/tia-gerard-kesse_c-r%C3%A9f%C3%A9rences-tta-time-triggered-architecture-activity-7358278488631484416-sPiF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOftRsB0Rh0MlSyRYweX14f_pNxyDgEm70)
