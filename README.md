@@ -9,8 +9,8 @@ Dans ce tutoriel, vous apprendrez à implémenter la structure logicielle de l�
 multi-tâches temps-réel **TTA** en langage **C** pour générer un signal carré modulé 
 à partir d’un système embarqué basé sur le microcontrôleur **8051** avec l'utilisation du timer **T2**.
 
-[Tutoriel](https://readydev.ovh/home/tutoriels/embedsys/references-tta "Suivre le tutoriel sur ReadyDEV") |
+[Tutoriel](https://readydev.ovh/home/tutoriels/embedsys/references-tta "Voir le tutoriel sur ReadyDEV") |
 [Contact](https://www.linkedin.com/in/tia-gerard-kesse/ "Contactez-moi sur LinkedIn") |
-[Demo](https://www.linkedin.com/posts/tia-gerard-kesse_c-r%C3%A9f%C3%A9rences-tta-time-triggered-architecture-activity-7358278488631484416-sPiF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOftRsB0Rh0MlSyRYweX14f_pNxyDgEm70 "Suivre la demo sur LinkedIn")
+[Demo](https://www.linkedin.com/posts/tia-gerard-kesse_c-r%C3%A9f%C3%A9rences-tta-time-triggered-architecture-activity-7358278488631484416-sPiF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOftRsB0Rh0MlSyRYweX14f_pNxyDgEm70 "Voir la demo sur LinkedIn")
 
-[![demo.png](doc/demo.png "Suivre la démo sur LinkedIn")](https://www.linkedin.com/posts/tia-gerard-kesse_c-r%C3%A9f%C3%A9rences-tta-time-triggered-architecture-activity-7358278488631484416-sPiF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOftRsB0Rh0MlSyRYweX14f_pNxyDgEm70)
+[![demo.png](doc/demo.png "Voir la démo sur LinkedIn")](https://www.linkedin.com/posts/tia-gerard-kesse_c-r%C3%A9f%C3%A9rences-tta-time-triggered-architecture-activity-7358278488631484416-sPiF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABOftRsB0Rh0MlSyRYweX14f_pNxyDgEm70)
